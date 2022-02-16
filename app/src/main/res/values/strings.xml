@@ -10,4 +10,6 @@
     <string name="_0_9">0/10</string>
     <string name="apple">Apple</string>
     <string name="submit">submit</string>
+    <string name="FINISH">FINISH</string>
+    <string name="SUBMIT">SUBMIT</string>
 </resources>
