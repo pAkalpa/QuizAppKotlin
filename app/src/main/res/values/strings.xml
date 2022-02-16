@@ -5,4 +5,9 @@
     <string name="tv3">Please enter your name.</string>
     <string name="ex_john_doe">Ex: John Doe</string>
     <string name="start">Start</string>
+    <string name="what_country_does_this_flag_belong_to">What Country does this flag belong to?</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="_0_9">0/10</string>
+    <string name="apple">Apple</string>
+    <string name="submit">submit</string>
 </resources>
